@@ -1,5 +1,5 @@
-aws_access_key = "AKIA6GBMA5H7FZOX32QA"
-aws_secret_key = "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"
+aws_access_key = "**********************"
+aws_secret_key = "********************"
 aws_region     = "us-east-1"
 project_name = "myproject"
 vpc_cidr          = "10.0.0.0/16"
